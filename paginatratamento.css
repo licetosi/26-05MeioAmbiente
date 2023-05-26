@@ -1,0 +1,323 @@
+.l6 {
+    background-color: #466C06;
+    height: 0.8%;
+    width: 20%;
+    border-radius: 50px;
+    position: absolute;
+    top: 341.5%;
+    border: solid #466C06;
+    margin-left: -1%;
+}
+
+
+*::-webkit-scrollbar {
+    width: 15px;
+
+}
+
+html {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+*::-webkit-scrollbar-track {
+    background-color: #C4E47C;
+
+}
+
+*::-webkit-scrollbar-thumb {
+    background-color: #2a6c24b4;
+}
+
+
+.header {
+    width: 100%;
+    height: 10%;
+    background-color: #f0fadb;
+}
+
+.IMAGEMDOTOPO {
+    width: 8cm;
+}
+
+.IMAGEMDOLOGO {
+    width: 9cm;
+}
+
+
+
+.IMAGEMDAFOLHA2 {
+    width: 17cm;
+}
+
+
+.IMAGEMDAFOLHA1 {
+    width: 17cm;
+}
+
+.imagensFOLHA {
+    display: flex;
+    justify-content: space-between;
+    margin-top: -300px;
+}
+
+.segundocabeçalho {
+    text-align: center;
+    font-size: 3cm;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #f0fadb;
+}
+
+button:hover {
+    color: #ffffff;
+    background-color: #629826;
+    border-radius: 50px;
+    background-size: contain;
+}
+
+button {
+    width: 300px;
+    height: 40px;
+    color: #ffffff;
+    background-color: #2A6C24;
+    border-color: #ffffff;
+    border-radius: 100px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 17%;
+}
+
+button a {
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: none;
+}
+
+button a:hover {
+    color: #ffffff;
+}
+
+
+.DEGRADE1 {
+    color: #C4E47C;
+    background-color: #C4E47C;
+    height: 35px;
+}
+
+.DEGRADE2 {
+    color: #2a6c24b4;
+    background-color: #2a6c24b4;
+    height: 20px;
+}
+
+.senai {
+    margin-top: 2%;
+    width: 25%;
+}
+
+.bglhdosenai {
+    background-color: #ffffff;
+}
+
+.as {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 0.5cm;
+    width: 25%;
+    margin: 2% 50% 0% 0%;
+}
+
+.imgaterro {
+
+    border-radius: 80%;
+    width: 45em;
+    margin: -2% 0% 0% 50%;
+    border: 5px solid #466C06;
+}
+
+.imgaterro {
+    transition: all 0.5s;
+    cursor: pointer;
+}
+
+.imgaterro:hover {
+    -webkit-transform: scale(1.2);
+    transform: scale(1.2);
+}
+
+.tec {
+    font-family: 'Times New Roman', Times, serif;
+    color: #ffffff;
+    padding: 15px 15px;
+    position: absolute;
+    top: 62%;
+    left: 10%;
+}
+
+.enci {
+    position: absolute;
+    font-family: 'Times New Roman', Times, serif;
+    width: 25%;
+    font-size: 0.5cm;
+    margin: 8% 0% 0% 62.5%;
+}
+
+.imgincineração {
+
+    border-radius: 80%;
+    width: 45em;
+    margin: -2% 52% 0% 0%;
+    border: 5px solid #466C06;
+}
+
+.imgincineração {
+    transition: all 0.5s;
+    cursor: pointer;
+}
+
+.imgincineração:hover {
+    -webkit-transform: scale(1.2);
+    transform: scale(1.2);
+}
+
+.cao {
+    position: absolute;
+    font-size: 0.8cm;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 4% 0% 0% 69.5%;
+    color: black;
+}
+
+.la {
+    font-size: 0.8cm;
+
+    font-family: 'Times New Roman', Times, serif;
+    width: 40%;
+    margin: 12% 50% 0% 0%;
+}
+
+.reci {
+    font-family: 'Times New Roman', Times, serif;
+    width: 25%;
+    font-size: 0.5cm;
+    margin: 2% 50% 0% 0%;
+}
+
+.imgreciclagem {
+
+    border-radius: 80%;
+    width: 40em;
+    margin: -15% 0% 0% 50%;
+    border: 5px solid #466C06;
+}
+
+.imgreciclagem {
+    transition: all 0.5s;
+    cursor: pointer;
+}
+
+.imgreciclagem:hover {
+    -webkit-transform: scale(1.2);
+    transform: scale(1.2);
+}
+
+.com {
+    font-family: 'Times New Roman', Times, serif;
+    width: 25%;
+    font-size: 0.5cm;
+    margin: 7% 0% 0% 50%;
+}
+
+.imgcompostagem {
+
+    border-radius: 80%;
+    width: 40em;
+    margin: 2% 55% 0% 0%;
+    border: 5px solid #466C06;
+}
+
+.imgcompostagem {
+    transition: all 0.5s;
+    cursor: pointer;
+}
+
+.imgcompostagem:hover {
+    -webkit-transform: scale(1.2);
+    transform: scale(1.2);
+}
+
+
+.gem {
+    position: absolute;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 5% 0% 0% 68%;
+    font-size: 0.8cm;
+
+}
+
+.tit {
+
+    font-size: 1.5cm;
+    position: absolute;
+    left: 30%;
+    top: 60%;
+}
+
+.rios {
+
+    margin: 10% 50% 0% 0%;
+    font-size: 0.8cm;
+    color: black;
+}
+
+* {
+
+    padding: 0;
+    margin: 0;
+}
+
+.linklink {
+    color: #000000;
+}
+
+html {
+    max-width: 100%;
+    max-height: 100%;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body {
+
+    background-color: #f0fadb;
+}
+
+
+.tratamento {
+
+    margin: 15% 0% 0% 0%;
+}
+
+.part1 {
+
+    position: absolute;
+    top: 70%;
+}
+
+.part4 {
+
+    position: absolute;
+    top: 235%;
+}
+
+.part2 {
+
+    margin: 5% 0% 0% 0%;
+}
+
+.títulogame {
+    position: absolute;
+    top: 290%;
+    left: 29%;
+    font-size: 280%;
+}
+
+.iframe {
+    margin-top: 16%;
+}
